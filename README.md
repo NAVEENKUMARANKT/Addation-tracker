@@ -1,0 +1,1 @@
+"AddictionTracker" is a user-friendly tool for monitoring progress in overcoming addiction. It offers daily tracking, motivational quotes, and relapse management to support users on their path to recovery.
